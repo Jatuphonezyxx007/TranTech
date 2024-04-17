@@ -1,2 +1,3 @@
-# TranTech
-โปรเจ็คของรายวิชา Business Programming ระบบการจองตั๋วรถโดยสาร
+# TranTechApp
+Project of subject Business Programming booking ticket
+Programming Language using c#
