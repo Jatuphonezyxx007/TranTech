@@ -1,0 +1,12 @@
+C:\Users\Jatup\Desktop\TransTechApp\TransTechApp\TransTechApp\bin\Debug\TransTechApp.exe.config
+C:\Users\Jatup\Desktop\TransTechApp\TransTechApp\TransTechApp\bin\Debug\TransTechApp.exe
+C:\Users\Jatup\Desktop\TransTechApp\TransTechApp\TransTechApp\bin\Debug\TransTechApp.pdb
+C:\Users\Jatup\Desktop\TransTechApp\TransTechApp\TransTechApp\obj\Debug\TransTechApp.csproj.AssemblyReference.cache
+C:\Users\Jatup\Desktop\TransTechApp\TransTechApp\TransTechApp\obj\Debug\TransTechApp.LoginPage.resources
+C:\Users\Jatup\Desktop\TransTechApp\TransTechApp\TransTechApp\obj\Debug\TransTechApp.Properties.Resources.resources
+C:\Users\Jatup\Desktop\TransTechApp\TransTechApp\TransTechApp\obj\Debug\TransTechApp.csproj.GenerateResource.cache
+C:\Users\Jatup\Desktop\TransTechApp\TransTechApp\TransTechApp\obj\Debug\TransTechApp.csproj.CoreCompileInputs.cache
+C:\Users\Jatup\Desktop\TransTechApp\TransTechApp\TransTechApp\obj\Debug\TransTechApp.exe
+C:\Users\Jatup\Desktop\TransTechApp\TransTechApp\TransTechApp\obj\Debug\TransTechApp.pdb
+C:\Users\Jatup\Desktop\TransTechApp\TransTechApp\TransTechApp\bin\Debug\TransTechApp.accdb
+C:\Users\Jatup\Desktop\TransTechApp\TransTechApp\TransTechApp\obj\Debug\TransTechApp.Form2.resources
